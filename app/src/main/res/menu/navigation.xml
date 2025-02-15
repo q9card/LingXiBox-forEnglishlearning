@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ngv_firstfra"
+        android:title="首页"
+        android:icon="@mipmap/nvg_firstfra"/>
+    <item android:id="@+id/ngv_ai_learn"
+        android:title="AI学"
+        android:icon="@mipmap/nvg_ai_learn"/>
+    <item android:id="@+id/ngv_sosiety"
+        android:title="社区"
+        android:icon="@mipmap/nvg_society"/>
+    <item android:id="@+id/ngv_my"
+        android:title="我的"
+        android:icon="@mipmap/nvg_my"/>
+
+</menu>
